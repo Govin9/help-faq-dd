@@ -1,0 +1,512 @@
+[
+    {
+      "question": "What is DesiDime? What’s in it for me?",
+      "answer": "DesiDime is completely free and user-driven online shopping community for the ‘Aam Janta’. It is a platform where online shoppers from all around can find and share the latest online deals, coupons and offers with each other. The forums allow shoppers to collaborate, share genuine reviews, offer expert shopping advice, and engage in discussions beyond shopping.",
+      "tags": [
+        "DesiDime",
+        "shopping",
+        "community",
+        "deals",
+        "coupons"
+      ]
+    },
+    {
+      "question": "I see so many forums. What are these all about?",
+      "answer": "DesiDime has segregated discussions into different forums to make it easier for visitors and members (Dimers) to find what they are looking for. Each forum has a specific focus, such as Hot Deals Online for the latest deals, Coupons for coupon codes, and Dost and Dimes for discussions outside of shopping.",
+      "tags": [
+        "forums",
+        "discussion",
+        "Dimers",
+        "community"
+      ]
+    },
+    {
+      "question": "How can I search for a deal on a particular thing of my choice?",
+      "answer": "You can search for deals by browsing categories, using specific store coupons, or checking the Hot Deals Online forum. The homepage features the best deals, and you can use the search box to find specific products, brands, or stores.",
+      "tags": [
+        "search",
+        "deals",
+        "coupons",
+        "products"
+      ]
+    },
+    {
+      "question": "No, no, no… these are not the deals I was looking for, I want a specific deal; how can I find it?",
+      "answer": "Use the 'Advanced Search' feature after running a basic search. This allows you to filter results by date, ratings, forums, categories, stores, and users, enabling more accurate search results.",
+      "tags": [
+        "advanced search",
+        "specific deals",
+        "filtering"
+      ]
+    },
+    {
+      "question": "What if I want to know about a particular store’s reliability? Any help?",
+      "answer": "You can check a store's reliability by visiting the Coupons section and selecting Top Stores. Each store page shows recommendations, reviews, average ratings, and ongoing discussions about the store.",
+      "tags": [
+        "store reliability",
+        "reviews",
+        "ratings"
+      ]
+    },
+    {
+      "question": "I like a deal. Can I rate it?",
+      "answer": "Yes, you can rate deals by voting them up or down. Each deal has a thumbs up and thumbs down button, and if you vote down, you need to provide a reason.",
+      "tags": [
+        "rating",
+        "deals",
+        "voting"
+      ]
+    },
+    {
+      "question": "What is a Front Page Deal? How does a deal become a Front Page Deal?",
+      "answer": "Front Page Deals (FPDs) are top deals selected to be displayed on DesiDime’s front page. They are handpicked based on a process that considers community votes and engagement. The original poster earns 20 Dimes for each deal that makes it to the front page.",
+      "tags": [
+        "Front Page Deal",
+        "FPD",
+        "selection process"
+      ]
+    },
+    {
+      "question": "What is this Hotness I see on every deal?",
+      "answer": "The hotness of a deal is determined by various factors including views, comments, votes, and engagement from Dimers. A hotter deal is more likely to be marked as popular and showcased on the front page.",
+      "tags": [
+        "hotness",
+        "deal popularity",
+        "engagement"
+      ]
+    },
+    {
+      "question": "What are Dimes?",
+      "answer": "Dimes are tokens of appreciation for Dimers contributing to the community. They act as a new currency that can be used to buy goodies from the Gift Shop.",
+      "tags": [
+        "Dimes",
+        "currency",
+        "community rewards"
+      ]
+    },
+    {
+      "question": "Cool! So how can I earn Dimes?",
+      "answer": "You can earn Dimes by signing up, following DesiDime on social media, and posting new deals or coupons. Additional Dimes can be earned if your deal gets promoted to the front page.",
+      "tags": [
+        "earning Dimes",
+        "community contribution",
+        "rewards"
+      ]
+    },
+    {
+      "question": "Fine, so what after I’ve accumulated a billion of them? How to redeem them?",
+      "answer": "To redeem your Dimes, log in to your account, go to the Gift Store, choose a product, fill out the form, and submit it for delivery.",
+      "tags": [
+        "redeeming Dimes",
+        "Gift Store",
+        "shopping"
+      ]
+    },
+    {
+      "question": "Are there any limitations on redeeming Dimes?",
+      "answer": "You need a minimum of 200 Dimes to redeem your first gift, but there are no limitations on future redemptions.",
+      "tags": [
+        "limitations",
+        "redeeming Dimes",
+        "gift redemption"
+      ]
+    },
+    {
+      "question": "Can I redeem my Dimes for hard cash?",
+      "answer": "No, Dimes cannot be redeemed for cash, but they can be used to get free gifts.",
+      "tags": [
+        "cash redemption",
+        "Dimes",
+        "gifts"
+      ]
+    },
+    {
+      "question": "I submitted a deal but my Dimes aren’t increasing?",
+      "answer": "There is a cap on the number of Dimes you can earn daily based on your rank. Once you reach this cap, you won't earn more Dimes until the next day.",
+      "tags": [
+        "Dimes cap",
+        "earning limits",
+        "rank"
+      ]
+    },
+    {
+      "question": "Hey, I woke up today and somebody stole my Dimes?",
+      "answer": "No one can steal your Dimes. If a post is deleted for being faulty, one Dime is deducted from your balance.",
+      "tags": [
+        "Dimes theft",
+        "post deletion",
+        "balance"
+      ]
+    },
+    {
+      "question": "I can also see some users with negative Dimes. What does this mean?",
+      "answer": "Negative Dimes indicate that a user redeemed their Dimes before duplicate posts were deleted, resulting in a negative balance.",
+      "tags": [
+        "negative Dimes",
+        "balance",
+        "post deletion"
+      ]
+    },
+    {
+      "question": "I want to submit a topic, how to go about it?",
+      "answer": "To submit a topic, go to the appropriate forum, click on ‘Post a new Topic’, fill in the required details, and click ‘Post Topic’.",
+      "tags": [
+        "submitting topic",
+        "forums",
+        "posting"
+      ]
+    },
+    {
+      "question": "Is there anything I need to keep in mind while submitting a deal?",
+      "answer": "Ensure you provide the correct URL and details of the product. Avoid posting from banned websites.",
+      "tags": [
+        "deal submission",
+        "URL",
+        "banned websites"
+      ]
+    },
+    {
+      "question": "Why are those URLs/ websites blocked? Where can I see the list of sites that are banned on DesiDime?",
+      "answer": "Certain competitor sites are blocked to maintain quality. A list of blocked sites is not publicly displayed.",
+      "tags": [
+        "blocked URLs",
+        "competitor sites",
+        "quality control"
+      ]
+    },
+    {
+      "question": "I want to create a topic besides deals, offers or coupons. How do I make sure I am in the correct forum?",
+      "answer": "Each forum has a description to help you identify the right place for your post. Check the forums to find the appropriate one.",
+      "tags": [
+        "forum selection",
+        "posting",
+        "descriptions"
+      ]
+    },
+    {
+      "question": "Can I make any changes to my posts or topics?",
+      "answer": "You can edit your posts within 24 hours of posting. After that, you cannot edit or delete your topic.",
+      "tags": [
+        "editing posts",
+        "time limit",
+        "deletion"
+      ]
+    },
+    {
+      "question": "I see many people adding images in their posts and even writing in different fonts. How can I use different fonts and images in my posts?",
+      "answer": "You can use HTML short codes to change fonts and add images in your posts. Instructions are available on the site.",
+      "tags": [
+        "HTML",
+        "fonts",
+        "images"
+      ]
+    },
+    {
+      "question": "Help!! The monster ate my post…",
+      "answer": "Posts may be deleted for reasons like duplicates, violations of rules, or objectionable content. You can inquire about deleted posts.",
+      "tags": [
+        "post deletion",
+        "rules",
+        "inquiries"
+      ]
+    },
+    {
+      "question": "Who determines a re-post? Are there any specific criteria?",
+      "answer": "Re-posts are determined based on the first unique post. Use the search feature to avoid duplicates.",
+      "tags": [
+        "re-posts",
+        "criteria",
+        "search feature"
+      ]
+    },
+    {
+      "question": "Ok, I am really sure I posted my deal before the other user. I want proof of the exact time of his/ her post.",
+      "answer": "You can check the exact posting time by hovering over the clock icon next to the post title.",
+      "tags": [
+        "posting time",
+        "proof",
+        "verification"
+      ]
+    },
+    {
+      "question": "Hey, I want to share my views on a particular product/ website, how to do it?",
+      "answer": "You can share your views in the Product Reviews or Store Reviews forums",
+      "tags": [
+        "product reviews",
+        "store reviews",
+        "sharing opinions"
+      ]
+    },
+    {
+      "question": "Why has my deal been Voted Down? I will spoil the face of the person who did it!",
+      "answer": "To know why your deal was voted down, check the flame-like smileys below the title of your post for reasons provided by other users.",
+      "tags": [
+        "voting down",
+        "feedback",
+        "community"
+      ]
+    },
+    {
+      "question": "I don’t like this default display picture; can I change it to something better?",
+      "answer": "Yes, you can change your display picture by going to 'Settings' and uploading a new avatar. GIFs are also supported.",
+      "tags": [
+        "profile picture",
+        "avatar",
+        "settings"
+      ]
+    },
+    {
+      "question": "Can I change my username and registered email id?",
+      "answer": "You cannot change your username for security reasons, but you can change your registered email ID in the settings.",
+      "tags": [
+        "username",
+        "email change",
+        "settings"
+      ]
+    },
+    {
+      "question": "How can I change my account password?",
+      "answer": "To change your password, go to 'Settings', click on 'Reset Password', and follow the prompts.",
+      "tags": [
+        "password change",
+        "settings",
+        "account security"
+      ]
+    },
+    {
+      "question": "Do you guys provide email alerts for deals?",
+      "answer": "Yes, you can subscribe to receive daily deal alerts via email by entering your email in the 'Subscribe' section.",
+      "tags": [
+        "email alerts",
+        "subscriptions",
+        "deals"
+      ]
+    },
+    {
+      "question": "Are there other ways in which I can receive deal alerts from DesiDime?",
+      "answer": "You can receive personalized deal alerts, Whatsapp Deal Alerts, and subscribe to Channels for specific deals.",
+      "tags": [
+        "deal alerts",
+        "Whatsapp",
+        "Channels"
+      ]
+    },
+    {
+      "question": "Since Channels are run by users of the site, can I start my own Channel, too?",
+      "answer": "Yes, you can create your own Channel if you have a minimum of 100 Karma points.",
+      "tags": [
+        "Channels",
+        "user-generated content",
+        "Karma points"
+      ]
+    },
+    {
+      "question": "To avoid such disappointments in future, can I use Price Alerts?",
+      "answer": "Yes, you can set Price Alerts for products to be notified when they drop to your desired price.",
+      "tags": [
+        "Price Alerts",
+        "notifications",
+        "price drops"
+      ]
+    },
+    {
+      "question": "What is the difference between Front Page Deals, Featured Deals, and Popular Deals?",
+      "answer": "Front Page Deals are the best deals displayed on the front page, Featured Deals are good deals promoted for visibility, and Popular Deals are trending offers among users.",
+      "tags": [
+        "Front Page Deals",
+        "Featured Deals",
+        "Popular Deals"
+      ]
+    },
+    {
+      "question": "What are Featured Coupons and Recent Trending Offers and Deals?",
+      "answer": "Featured Coupons are top coupons of the day, while Recent Trending Offers are the most popular deals that have gained traction quickly.",
+      "tags": [
+        "Featured Coupons",
+        "Trending Offers",
+        "deals"
+      ]
+    },
+    {
+      "question": "What are those green and red flame-like smileys seen in the forums and on individual deal pages?",
+      "answer": "These smileys indicate the score and votes a deal has received, reflecting its popularity among users.",
+      "tags": [
+        "smileys",
+        "popularity score",
+        "votes"
+      ]
+    },
+    {
+      "question": "Can I stalk the offers or topics that I find interesting?",
+      "answer": "Yes, you can follow any topic by clicking 'Follow Topic' to easily access it later from your profile.",
+      "tags": [
+        "following topics",
+        "profile",
+        "community engagement"
+      ]
+    },
+    {
+      "question": "Do I get an email notification once a person replies on a topic that I am following?",
+      "answer": "Currently, you do not receive email notifications for replies, but this feature is being considered for future updates.",
+      "tags": [
+        "notifications",
+        "email",
+        "community"
+      ]
+    },
+    {
+      "question": "Can I have private chats with specific members of the community through DesiDime?",
+      "answer": "Yes, you can send Private Messages to users by visiting their profile and clicking the 'Chat' button.",
+      "tags": [
+        "private messaging",
+        "chat",
+        "community"
+      ]
+    },
+    {
+      "question": "Apart from Dimes, what more do I get for contributing to the community?",
+      "answer": "You earn Karma points and can be featured on the Leaderboard for your contributions, reflecting your activity level.",
+      "tags": [
+        "Karma",
+        "Leaderboard",
+        "community contribution"
+      ]
+    },
+    {
+      "question": "Why am I shown as “Deal Newbie” while some other members are presented as ‘Deal Lieutenant’ or ‘Deal Captain’? How do I move up the level?",
+      "answer": "Your rank is determined by your activity level and Karma points. As you contribute more to the community, your rank will increase.",
+      "tags": [
+        "ranks",
+        "Karma",
+        "activity level"
+      ]
+    },
+    {
+      "question": "I also see different titles written under the names of some users. What do those signify?",
+      "answer": "Those titles are badges earned by users for their contributions to the community, recognizing their efforts and achievements.",
+      "tags": [
+        "badges",
+        "recognition",
+        "community"
+      ]
+    },
+    {
+      "question": "How can I gain these Badges?",
+      "answer": "You can earn Activity Badges by contributing to the community, while VIP Badges are awarded by admins based on observation and contribution.",
+      "tags": [
+        "earning badges",
+        "Activity Badges",
+        "VIP Badges"
+      ]
+    },
+    {
+      "question": "Do you give out warnings as well?",
+      "answer": "Yes, warnings are issued for violations of community rules, and repeated offenses may lead to suspension.",
+      "tags": [
+        "warnings",
+        "suspension",
+        "community rules"
+      ]
+    },
+    {
+      "question": "When do you suspend a member?",
+      "answer": "Members may be suspended for spamming, self-promotion, fake accounts, or repeated violations of community guidelines.",
+      "tags": [
+        "suspension",
+        "community guidelines",
+        "violations"
+      ]
+    },
+    {
+      "question": "Can I post anything in the Dost & Dimes forum? After all it sounds like a casual forum.",
+      "answer": "No, objectionable or inappropriate content is not tolerated in any forum, including Dost & Dimes.",
+      "tags": [
+        "Dost & Dimes",
+        "content guidelines",
+        "community standards"
+      ]
+    },
+    {
+      "question": "I want to report an inappropriate content/ user, whom can I reach out to regarding this?",
+      "answer": "You can report inappropriate content or users by using the alert administrator icon or sending a Private Message to the admins.",
+      "tags": [
+        "reporting",
+        "inappropriate content",
+        "admin contact"
+      ]
+    },
+    {
+      "question": "I just received a warning; it says my post is a re-post. Help me, I did not mean to do it on purpose, honest!",
+      "answer": "Re-post warnings are reminders to use the search feature before posting. Repeated warnings can affect your Karma and ranking.",
+      "tags": [
+        "re-post warning",
+        "Karma",
+        "search feature"
+      ]
+    },
+    {
+      "question": "I am a merchant. Can I bribe you to feature my deal on the front page?",
+      "answer": "No, we do not accept paid advertisements as Front Page Deals. Only community-driven selections are featured.",
+      "tags": [
+        "merchant partnerships",
+        "Front Page Deals",
+        "community-driven"
+      ]
+    },
+    {
+      "question": "I am interested in a partnership. Whom to reach out to?",
+      "answer": "For partnerships, you can fill out the forms provided on the DesiDime website for merchants or affiliates.",
+      "tags": [
+        "partnerships",
+        "merchant hub",
+        "affiliates"
+      ]
+    },
+    {
+      "question": "Do you guys have any job opportunities?",
+      "answer": "Yes, you can send your resume to jobs@desidime.com for potential job openings.",
+      "tags": [
+        "job opportunities",
+        "careers",
+        "DesiDime"
+      ]
+    },
+    {
+      "question": "My wife/ hubby left me because I’m on DesiDime 24×7.",
+      "answer": "While we appreciate your dedication, we recommend balancing your time wisely. DesiDime can be addictive!",
+      "tags": [
+        "community engagement",
+        "time management",
+        "addiction"
+      ]
+    },
+    {
+      "question": "How can I tag someone in a discussion on DesiDime?",
+      "answer": "You can tag someone in a discussion by using the '@' symbol followed by their username, such as @admin. This will notify the user and help draw their attention to your comment or question.",
+      "tags": [
+        "tagging",
+        "discussion",
+        "notification",
+        "community"
+      ]
+    },
+    {
+      "question": "How can I find the current admins and moderators online on DesiDime?",
+      "answer": "You can view the current admins and moderators online by navigating to Forums > All Forums. Scroll down to the section 'There are currently XYZ users online.' Usernames highlighted in green are Admins, while those in blue are Moderators. @admin, @bumblefoot, @Rosh_0007, @Mayavi, @Censuresh.",
+      "tags": [
+        "admins",
+        "moderators",
+        "community"
+      ]
+    },
+    {
+      "question": "Commonly Used Abbreviations",
+      "answer": "AFAIK - As Far As I Know, AR - After Rebate, ATC - Added To Channel, B1G1/BOGO - Buy One Get One Free, BTP - Buy The Price, BTW - By The Way, CC - Credit Card / Customer Care, CPN - Coupon, CSR - Customer Service Representative, CYM - Check Your Mail, DD - DesiDime, FB - Future Bazaar, FP - Front Page, FPD - Front Page Deal, FWIW - For What It's Worth, GC - Gift Certificate, GDA - Good Deal At, GV - Gift Voucher, HD - Hot Deal, HDO - Hot Deals Online, HS - Homeshop18, IDK - I Don't Know, IIRC - If I Recall Correctly, IMHO - In My Honest/Humble Opinion, IMO - In My Opinion, IR - Instant Rebate, KG - Karma Given, LMK - Let Me Know, LOL - Laughing Out Loud, MFG - Manufacturer, MFR - Manufacturer, OEM - Original Equipment Manufacturer, OOS - Out Of Stock, OP - Original Poster (Author Of Thread), OT - Off Topic, PM - Private Message, RAOK - Random Act Of Kindness, ROFL - Rolling On the Floor Laughing, S/H - Shipping And Handling, TD - Thumbs Down, TIA - Thanks In Advance, TU - Thumbs Up, VU - Voted Up, WRT - With Respect To, YAFTS - Yet Another Free T-Shirt, YGM - You've Got Mail, YGPM - You've Got A Private Message, YMMV - Your Mileage May Vary.",
+      "tags": [
+        "abbreviations",
+        "slang",
+        "DesiDime",
+        "community terms"
+      ]
+    }
+  ]
